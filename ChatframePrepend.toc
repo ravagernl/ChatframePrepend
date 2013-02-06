@@ -1,4 +1,8 @@
 ## Interface: 50100
 ## Title: ChatframePrepend
+## Notes: Inserts messages at the top of your chatframes instead of at the bottom.
+## Author: mrruben5
 ## OptionalDeps: tekDebug
+## Version: 1.0
+## X-Category: Chat/Communication
 code.lua
