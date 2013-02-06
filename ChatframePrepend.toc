@@ -5,4 +5,5 @@
 ## OptionalDeps: tekDebug
 ## Version: 1.0
 ## X-Category: Chat/Communication
+## X-RelSite-WoWI: 22112
 code.lua
